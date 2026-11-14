@@ -1,93 +1,78 @@
-# Abdullah Mughal | AI Developer
+# Abdullah Mughal — AI Engineer & Entrepreneur
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BS-Artificial%20Intelligence-blue" alt="BS Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Building-AI%20Projects-purple" alt="Building AI Projects" />
-  <img src="https://img.shields.io/badge/Location-Multan%2C%20Pakistan-green" alt="Multan Pakistan" />
-</p>
+A responsive personal portfolio presenting Abdullah Mughal's interests in AI engineering, intelligent systems, software development and technology entrepreneurship.
 
-<p align="center">
-  <a href="https://abdullahmughalworld.github.io/Abdullah-Mughal/">🌐 Portfolio Website</a> ·
-  <a href="https://github.com/AbdullahMughalWorld">💻 GitHub</a> ·
-  <a href="https://www.linkedin.com/in/abdullah-mughal-063a56433">🔗 LinkedIn</a>
-</p>
+**Live website:** https://abdullahmughalworld.github.io/Abdullah-Mughal/
 
-## About Me
+## Brand direction
 
-I'm Abdullah, a BS Artificial Intelligence student at Bahauddin Zakariya University (BZU), Multan, Pakistan. I'm interested in building practical AI applications and intelligent systems that solve real-world problems.
+**AI Engineer & Entrepreneur**  
+*Engineering Intelligence. Creating Possibilities.*
 
-- 🎓 Studying **Artificial Intelligence**
-- 🤖 Exploring **Machine Learning, Deep Learning, and AI applications**
-- 💻 Practicing **Python, C++, OOP, and Data Structures**
-- 🧠 Interested in AI chatbots, automation, and useful digital solutions
-- 🚀 Working toward becoming an AI Engineer and building impactful products
+The website is intentionally focused on professional positioning, selected work, technical areas of focus and a long-term product-building vision. It does not claim unverified employment, clients, commercial outcomes or proficiency levels.
 
-## Tech & Skills
+## Built with
 
-| Area | Technologies / Topics |
-|---|---|
-| Programming | Python, C++ |
-| Core CS | Object-Oriented Programming, Data Structures, Algorithms |
-| AI | Machine Learning and Deep Learning (learning & projects) |
-| Tools | Git, GitHub, VS Code |
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Google Fonts (Manrope and DM Mono)
 
-## Featured Project
+The project uses a lightweight static architecture. No build step, package manager, API key or paid service is required.
 
-### Seniors AI
-An AI chatbot project created for a university AI event.
+## Project structure
 
-- 🏆 Secured **3rd position** at the AI Baithak event
-- 🔗 [Open Seniors AI](https://abdullahmughalworld.github.io/Seniors-AI/)
-- 📂 [Source Code](https://github.com/AbdullahMughalWorld/Seniors-AI)
-
-## Portfolio Website
-
-This repository contains my personal portfolio website, built to showcase my background, skills, and projects.
-
-**Live Website:** [abdullahmughalworld.github.io/Abdullah-Mughal](https://abdullahmughalworld.github.io/Abdullah-Mughal/)
-
-### Built With
-- React
-- TypeScript
-- Vite
-- Framer Motion
-- CSS
-
-## Run Locally
-
-Make sure Node.js and npm are installed.
-
-```bash
-git clone https://github.com/AbdullahMughalWorld/Abdullah-Mughal.git
-cd Abdullah-Mughal
-npm install
-npm run dev
+```text
+Abdullah-Mughal/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── assets/
+    └── images/
+        └── favicon.svg
 ```
 
-Open the local URL shown in your terminal.
+## Run locally
 
-## Build & Preview
+1. Clone the repository:
 
-```bash
-npm run build
-npm run preview
-```
+   ```bash
+   git clone https://github.com/AbdullahMughalWorld/Abdullah-Mughal.git
+   ```
 
-## Deployment
+2. Open the folder:
 
-This project is configured for GitHub Pages using the repository path `/Abdullah-Mughal/`.
+   ```bash
+   cd Abdullah-Mughal
+   ```
 
-1. Push changes to the `main` branch.
-2. In GitHub, open **Settings → Pages**.
-3. Select **GitHub Actions** under Build and deployment.
-4. Check the **Actions** tab for the deployment status.
+3. Open `index.html` in a browser, or use the VS Code Live Server extension.
 
-## Connect With Me
+## Deploy with GitHub Pages
 
-- **GitHub:** [AbdullahMughalWorld](https://github.com/AbdullahMughalWorld)
-- **LinkedIn:** [Abdullah Mughal](https://www.linkedin.com/in/abdullah-mughal-063a56433/)
-- **Portfolio:** [Visit Website](https://abdullahmughalworld.github.io/Abdullah-Mughal/)
+1. Push your changes to the `main` branch.
+2. Open repository **Settings → Pages**.
+3. Under **Build and deployment**, choose **Deploy from a branch**.
+4. Select `main` and the `/ (root)` folder, then save.
+5. Wait for the Pages deployment to complete.
+
+The site uses relative asset paths and is designed to work from the repository's GitHub Pages subpath.
+
+## Updating content
+
+- Edit personal copy, project details and links in `index.html`.
+- Update colors, layout and responsive rules in `style.css`.
+- Update navigation, reveal effects and interactions in `script.js`.
+- Keep project statuses and technical claims accurate as work evolves.
+
+## Professional links
+
+- **GitHub:** https://github.com/AbdullahMughalWorld
+- **LinkedIn:** https://www.linkedin.com/in/abdullah-mughal-063a56433/
+- **Seniors AI:** https://abdullahmughalworld.github.io/Seniors-AI/
+- **Previous portfolio:** https://abdullahmughalworld.github.io/abdullah-ai-portfolio/
 
 ---
 
-<p align="center">⭐ If you find my work interesting, feel free to explore my repositories!</p>
+© Abdullah Mughal
