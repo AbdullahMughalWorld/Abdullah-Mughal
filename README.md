@@ -2,14 +2,15 @@
 
 A responsive personal portfolio presenting Abdullah Mughal's interests in AI engineering, intelligent systems, software development and technology entrepreneurship.
 
-**Live website:** https://abdullahmughalworld.github.io/Abdullah-Mughal/
+**Production website:** https://abdullah-mughal.vercel.app  
+**GitHub repository:** https://github.com/AbdullahMughalWorld/Abdullah-Mughal
 
 ## Brand direction
 
 **AI Engineer & Entrepreneur**  
 *Engineering Intelligence. Creating Possibilities.*
 
-The website is intentionally focused on professional positioning, selected work, technical areas of focus and a long-term product-building vision. It does not claim unverified employment, clients, commercial outcomes or proficiency levels.
+The website focuses on professional positioning, selected work, technical areas of focus and a long-term product-building vision. It does not claim unverified employment, clients, commercial outcomes or proficiency levels.
 
 ## Built with
 
@@ -49,15 +50,22 @@ Abdullah-Mughal/
 
 3. Open `index.html` in a browser, or use the VS Code Live Server extension.
 
-## Deploy with GitHub Pages
+## Deployment
 
-1. Push your changes to the `main` branch.
-2. Open repository **Settings → Pages**.
-3. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select `main` and the `/ (root)` folder, then save.
-5. Wait for the Pages deployment to complete.
+The repository's configured homepage is the Vercel deployment:
 
-The site uses relative asset paths and is designed to work from the repository's GitHub Pages subpath.
+https://abdullah-mughal.vercel.app
+
+If Vercel is connected to this GitHub repository, pushing to the production branch should trigger its configured deployment workflow. Confirm the deployment status in the Vercel project dashboard.
+
+### Optional: GitHub Pages
+
+1. Open repository **Settings → Pages**.
+2. Under **Build and deployment**, choose **Deploy from a branch**.
+3. Select `main` and the `/ (root)` folder, then save.
+4. Wait for the Pages deployment to complete.
+
+The site uses relative asset paths so it can also run from a repository subpath.
 
 ## Updating content
 
