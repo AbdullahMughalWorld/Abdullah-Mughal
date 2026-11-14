@@ -1,92 +1,38 @@
-# 👋 Hey, I'm Abdullah Mughal
+# Abdullah Mughal — AI Portfolio
 
-### 🤖 Artificial Intelligence Student | Aspiring AI Engineer | Tech Enthusiast
+A responsive personal portfolio built with React, TypeScript, Vite, Framer Motion, and custom CSS.
 
-I'm a **BS Artificial Intelligence student at Bahauddin Zakariya University (BZU), Multan, Pakistan**, passionate about building intelligent systems and exploring how AI can solve real-world problems.
+## Run locally
 
-I love turning ideas into practical applications, experimenting with AI technologies, and continuously improving my software development skills.
+```bash
+npm install
+npm run dev
+```
 
----
+Open the local URL shown in your terminal.
 
-## 🚀 About Me
+## Build
 
-- 🎓 Currently pursuing **BS Artificial Intelligence**
-- 🧠 Exploring **Machine Learning, Deep Learning, and AI Agents**
-- 💻 Practicing **Python, C++, C, and JavaScript**
-- 📚 Learning **Data Structures & Algorithms, OOP, and Software Development**
-- 🛠️ Building AI-powered applications and practical projects
-- 🌍 Interested in AI innovation, automation, and entrepreneurship
-- 🎯 My goal is to become an **AI Engineer and AI Entrepreneur**
+```bash
+npm run build
+npm run preview
+```
 
----
+## Deploy to GitHub Pages
 
-## 💻 Tech Stack
+The project is configured for the repository path `/Abdullah-Mughal/`.
 
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
-</p>
+1. Push the project to the `main` branch.
+2. Open **Settings → Pages** in the GitHub repository.
+3. Under **Build and deployment**, select **GitHub Actions**.
+4. Open the **Actions** tab and wait for the deployment workflow to finish.
 
-### Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,react,vite,html,css" />
-</p>
+Your site will be available at:
 
-### Currently Exploring
-- Machine Learning
-- Deep Learning
-- Generative AI
-- AI Agents
-- Data Analysis
-- Intelligent Automation
+`https://abdullahmughalworld.github.io/Abdullah-Mughal/`
 
----
+## Before publishing
 
-## 🔥 Featured Projects
-
-### 🤖 Seniors AI
-An AI-powered chatbot project developed for a university-focused use case.
-
-🔗 **[Explore Seniors AI](https://abdullahmughalworld.github.io/Seniors-AI/)**
-
-### 🌐 AI Portfolio
-My personal portfolio showcasing my journey, projects, skills, and achievements.
-
-🔗 **[Visit My Portfolio](https://abdullahmughalworld.github.io/abdullah-ai-portfolio/)**
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahMughalWorld&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMughalWorld&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=AbdullahMughalWorld&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/AbdullahMughalWorld">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://abdullahmughalworld.github.io/abdullah-ai-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/abdullah-mughal/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 💡 My Vision
-
-> Building intelligent solutions, learning continuously, and using AI to create meaningful impact.
-
-⭐ **Thanks for visiting my profile! Let's build something amazing with AI.**
+- In `src/App.tsx`, replace `YOUR_EMAIL@example.com` with your real public contact email.
+- Review your education, skills, project descriptions, and social links for accuracy.
+- Add a real profile photo only if you want one; the current hero uses an initials-based visual.
